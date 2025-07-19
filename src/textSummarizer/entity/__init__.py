@@ -38,8 +38,6 @@ class ModelTrainerConfig:
     logging_steps: int
     save_steps: float
     gradient_accumulation_steps: int
-    fp16: bool
-    gradient_checkpointing: bool
 
 
 

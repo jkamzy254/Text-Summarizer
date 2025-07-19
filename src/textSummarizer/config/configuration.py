@@ -80,10 +80,8 @@ class ConfigurationManager:
             per_device_train_batch_size = params.per_device_train_batch_size,
             weight_decay = params.weight_decay,
             logging_steps = params.logging_steps,
-            evaluation_strategy = params.evaluation_strategy,
-            gradient_accumulation_steps = params.gradient_accumulation_steps,
-            fp16=params.fp16,
-            gradient_checkpointing=params.gradient_checkpointing
+            save_steps = params.save_steps,
+            gradient_accumulation_steps = params.gradient_accumulation_steps
         )
 
         return model_trainer_config
