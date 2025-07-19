@@ -51,7 +51,7 @@ open up you local host and port
 ```bash
 Author: Kamau Muthamaki
 Data Scientist
-Email: mthmk@gmail.com
+Email: kmthmk@gmail.com
 
 ```
 
