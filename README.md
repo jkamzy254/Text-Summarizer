@@ -89,7 +89,7 @@ Email: mthmk@gmail.com
  
 ## 3. Create ECR repo to store/save docker image
 
-    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/text-s
+    - Save the URI: 112875909986.dkr.ecr.ap-southeast-2.amazonaws.com/text_summarizer_project
 
  
 ## 4. Create EC2 machine (Ubuntu)
